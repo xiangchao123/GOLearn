@@ -7,3 +7,4 @@ golang learn
 5. [Go 高级编程：advanced-go-programming-book](https://github.com/xiangchao123/advanced-go-programming-book)
 6. [来 Chat 下：gochat](https://github.com/xiangchao123/gochat)
 7. [给！拿去用：annie](https://github.com/iawia002/annie)
+8. [Go 语言圣经](https://github.com/golang-china/gopl-zh)
